@@ -1,3 +1,4 @@
+for windows/ubantu/fedora
 1.run pass1 file by command
   python pass1.py
 2.also create input file for assembley language
